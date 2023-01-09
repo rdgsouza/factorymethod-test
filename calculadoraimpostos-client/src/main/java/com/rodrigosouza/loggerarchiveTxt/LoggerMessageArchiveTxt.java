@@ -1,12 +1,12 @@
-package com.rodrigosouza.loggerarchive;
+package com.rodrigosouza.loggerarchiveTxt;
 
 import com.rodrigosouza.createlogger.LoggerCreatetor;
 import com.rodrigosouza.logger.Logger;
 
-public class LoggerMessageArchive extends Logger {
+public class LoggerMessageArchiveTxt extends Logger {
 
     @Override
     protected LoggerCreatetor loggerCreate() {
-        return new LoggerCreatetorArchive();
+        return new LoggerCreatetorArchiveTxt();
     }
 }
