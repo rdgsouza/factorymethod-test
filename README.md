@@ -1,4 +1,4 @@
-#Desafio: Factory method
+# Desafio: Factory method
 
 Para esse desafio vamos verificar sua habilidade de abstração para criar um framework para gerar logs em várias saídas possíveis, por exemplo console ou um arquivo.
 
