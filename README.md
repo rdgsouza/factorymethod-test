@@ -11,7 +11,7 @@ Em uma classe que precise gerar logs, receber um objeto do tipo Logger com o mé
 public void log(String message)
 Por exemplo, uma classe chamada CalculadoraDeImpostos, que no método calcular, irá imprimir o valor calculado:
 
-//
+#
 public class CalculadoraDeImpostos {
   
   private Logger logger;
@@ -28,7 +28,7 @@ public class CalculadoraDeImpostos {
   }
 
 }
-//
+#
 
 Veja bem, essa é uma classe de exemplo, um cliente do nosso framework. O seu trabalho é criar todas as classes/interfaces que serão usadas para criar esse objeto logger e passar a uma classe de exemplo, como a acima.
 
