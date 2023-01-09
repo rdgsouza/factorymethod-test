@@ -1,6 +1,6 @@
 Desafio: Factory method
 
-Para esse desafio vamos treinar sua habilidade de abstração para criar um framework para gerar logs em várias saídas possíveis, por exemplo console ou um arquivo.
+Para esse desafio vamos verificar sua habilidade de abstração para criar um framework para gerar logs em várias saídas possíveis, por exemplo console ou um arquivo.
 
 Claro que você como um excelente programador que conhece orientação a objetos, na verdade mais do que isso, conhece como criar um bom projeto orientado a objetos usando os design patterns, não irá criar um código acoplado e difícil de estender, mas sim um código desacoplado e extensível.
 
