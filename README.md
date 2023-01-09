@@ -18,7 +18,7 @@ public class CalculadoraDeImpostos {
 
   public CalculadoraDeImpostos(Logger logger) { </br>
     this.logger = logger;
-  }
+</br>  }
   
   public void calcular(double valor) {
     // Aqui teria uma lógica para calcular impostos sobre o valor passado
