@@ -1,4 +1,4 @@
-Desafio: Factory method
+#Desafio: Factory method
 
 Para esse desafio vamos verificar sua habilidade de abstração para criar um framework para gerar logs em várias saídas possíveis, por exemplo console ou um arquivo.
 
@@ -25,9 +25,9 @@ public class CalculadoraDeImpostos {
 
     // no fim, o programador gostaria de deixar registrado o valor calculado
     logger.log("Imposto calculado para o valor R$" + valor);
-  }
+     }
 
-}
+ }
 #
 
 Veja bem, essa é uma classe de exemplo, um cliente do nosso framework. O seu trabalho é criar todas as classes/interfaces que serão usadas para criar esse objeto logger e passar a uma classe de exemplo, como a acima.
